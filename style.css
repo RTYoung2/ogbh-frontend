@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    /* background-color: aqua; */
+}
+
+.home_container{
+    /* display:flex; */
+    border: solid 2px orange;
+    height:100%;
+    width: 100%;
+    
+}
+.title{
+    /* display:flexbox; */
+    border: solid 2px red;
+    position:absolute;
+    top: 50%;
+}
+
+.home_background{
+ background-image: url(images\OGBH\H_background.jpg);
+}
+/* This makes the image responsive */
